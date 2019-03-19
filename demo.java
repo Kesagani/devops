@@ -1,3 +1,7 @@
+Class sample
+{
+ ------
+}
 Class demo
 {
   p.s.void main(....)
