@@ -9,4 +9,8 @@ Void ADDITION()
 Void SUB()
 {
  C=A-B
+{
+Void main()
+{
+ .....
 }
